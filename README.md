@@ -15,9 +15,11 @@
       </b>
     </h3>
   </p>
-  
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)   <a href="CODE_OF_CONDUCT.md" alt="Contributions welcome">
     <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=github" /></a>
+
+</div>
 
 # AWS Series: Zero to One 0️⃣➡️1️⃣
 
@@ -65,3 +67,8 @@ If you find any issues with the lecture materials or have suggestions for improv
 
 This repository is open-source and is distributed under the [MIT License](LICENSE).
 
+
+<hr>
+<p align = center>
+Happy Learning!✨
+</p>
