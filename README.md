@@ -15,8 +15,10 @@
       </b>
     </h3>
   </p>
+  
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)   <a href="CODE_OF_CONDUCT.md" alt="Contributions welcome">
     <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?logo=github" /></a>
+
 # AWS Series: Zero to One 0️⃣➡️1️⃣
 
 Welcome to the AWS Series: Zero to One repository! This repository contains lecture materials and resources to help you learn AWS from scratch. Whether you are new to cloud computing or looking to expand your existing knowledge, this series aims to guide you through the AWS services and concepts.
