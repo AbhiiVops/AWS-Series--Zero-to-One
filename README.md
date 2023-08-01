@@ -4,7 +4,7 @@
     <img
       src="https://blog.adobe.com/en/publish/2021/08/31/media_1649ebc3fbbce0df508081913819d491fc3f7c7a9.png?width=2000&format=webply&optimize=medium"
       alt="AWS Logo"
-      height="124"
+      width="124"
     />
   </a>
   <br />
